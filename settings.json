@@ -1,0 +1,20 @@
+{
+    "self_mode": false,
+	"autobio": false,
+	"antihidetag": true,
+	"user_register": false,
+	"anti_delete" : false,
+	"anticall": true,
+	"auto_welcome_msg": true,
+	"auto_leave_msg": true,
+	"prefix": ".",
+	"language":"ind",
+	"ownerNumber": "60199766047",
+	"ownerNumberr": "60195538106",
+	"cr": "@Zain",
+	"ownername": "Zain",
+	"botname":"Fɪᴇᴅᴢʙᴏᴛ",
+	"thumb":"thumbnail_1.jpg",
+	"fakethumb":"thumbnail_1.jpg", 
+	"fake": " 「  Fɪᴇᴅᴢʙᴏᴛ  」\nCreated By @Fiedz"
+}
